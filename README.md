@@ -1,2 +1,3 @@
-# Heist-Editor-3.5.1
-GTA ONLINE HEIST EDITOR
+# GTAO Heist Editor
+
+Heist editor is a tool to modify your heists in gta online!

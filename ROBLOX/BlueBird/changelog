@@ -14,3 +14,8 @@
 [+] Added functions ex. save file open file attach execute etc.
 [/] Added things to script list context strip menu (refresh, load into editor, execute)
 [/] Added message boxes to confirm that you want to do certain things. (ex. Clear editor)
+
+10/5/2022 \ 4:06 PM
+[+] Loading screen
+[+] Fade animation on opening
+

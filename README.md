@@ -1,3 +1,3 @@
-# Subscribe please!
+# BLUE BIRD IND.
 
-Please subscribe it takes effort to make this videos fr
+Working with blue bird rn.
